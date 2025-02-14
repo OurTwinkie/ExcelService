@@ -1,8 +1,8 @@
 ##  Запуск
 Склонировать репозиторий:
 ```bash
-    git clone 
-    cd excel-service
+    git clone https://github.com/OurTwinkie/ExcelService.git
+    cd ExcelService
 ```
 Собрать проект:
 ```
